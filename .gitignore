@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.env.*
+node_modules/
+*.key
+*.pem
+*.pfx
+*.p12
+screenshots/archive-raw/
+logs/lifecycle-audit-initial-test.csv
+*.tmp
+*.temp

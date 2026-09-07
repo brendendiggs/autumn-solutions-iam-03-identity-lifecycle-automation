@@ -1,0 +1,23 @@
+timestamp,event,username,result,message
+2026-09-05T23:49:39Z,Joiner,lena.ortiz,SUCCESS,Joiner workflow completed
+2026-09-05T23:49:43Z,Mover,priya.shah,SUCCESS,Mover workflow completed
+2026-09-05T23:49:46Z,Leaver,marcus.bell,SUCCESS,Leaver workflow completed
+2026-09-06T00:15:42Z,Joiner,lena.ortiz,SUCCESS,Joiner workflow completed
+2026-09-06T00:15:52Z,Mover,priya.shah,SUCCESS,Mover workflow completed
+2026-09-06T00:32:51Z,Joiner,lena.ortiz,SUCCESS,Joiner workflow completed
+2026-09-06T00:32:54Z,Mover,priya.shah,SUCCESS,Mover workflow completed
+2026-09-06T00:34:23Z,Joiner,lena.ortiz,SUCCESS,Joiner workflow completed
+2026-09-06T00:34:26Z,Mover,priya.shah,SUCCESS,Mover workflow completed
+2026-09-06T00:56:02Z,event,username,FAILED,Unknown HR event type
+2026-09-06T00:56:04Z,Joiner,lena.ortiz,SUCCESS,Joiner workflow completed
+2026-09-06T00:56:07Z,Mover,priya.shah,SUCCESS,Mover workflow completed
+2026-09-06T00:56:11Z,Leaver,marcus.bell,SUCCESS,Leaver workflow completed
+2026-09-06T00:56:40Z,Joiner,noah.bennett,FAILED,Joiner workflow failed
+2026-09-06T00:57:07Z,Joiner,liam.foster,FAILED,Joiner workflow failed
+2026-09-06T00:57:35Z,Joiner,grace.kim,FAILED,Joiner workflow failed
+2026-09-06T01:03:45Z,Joiner,lena.ortiz,SUCCESS,Joiner workflow completed
+2026-09-06T01:03:48Z,Mover,priya.shah,SUCCESS,Mover workflow completed
+2026-09-06T01:03:52Z,Leaver,marcus.bell,SUCCESS,Leaver workflow completed
+2026-09-06T01:03:54Z,Joiner,noah.bennett,SUCCESS,Joiner workflow completed
+2026-09-06T01:03:56Z,Joiner,liam.foster,SUCCESS,Joiner workflow completed
+2026-09-06T01:03:58Z,Joiner,grace.kim,SUCCESS,Joiner workflow completed
