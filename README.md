@@ -277,3 +277,13 @@ The final workflow demonstrates how identity attributes retrieved directly from 
 A live-source test changed Priya Shah's job title in Google Sheets to Senior Finance Specialist. The lifecycle controller retrieved the updated feed automatically and Microsoft Graph updated the corresponding Entra identity without a manual CSV export.
 
 The automation also demonstrates idempotent execution, retry handling for real-world cloud propagation behavior, and certificate-secured workload authentication without a shared client secret.
+
+## Public Portfolio
+
+The completed project is also published as a recruiter-facing case study:
+
+- https://brendendiggs.com/projects/iam-03-identity-lifecycle-automation.html
+
+Public portfolio evidence:
+
+16. `16-IAM-03-Public-Portfolio-Case-Study.png`
