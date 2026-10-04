@@ -6,6 +6,13 @@ Built an end-to-end Joiner–Mover–Leaver identity lifecycle automation workfl
 
 The project simulates an HR-driven identity lifecycle process where a structured HR source feed triggers identity creation, attribute updates, access changes, and account disablement.
 
+
+## Video Walkthrough
+
+▶ **[Watch the 2–3 minute project walkthrough](https://youtu.be/zFjmEGvlhwE)**
+
+See the Joiner-Mover-Leaver workflow, Microsoft Graph automation, and lifecycle validation demonstrated end to end.
+
 ## Architecture
 
 Live Google Sheets HR Source  
